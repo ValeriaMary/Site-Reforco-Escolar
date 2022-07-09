@@ -1,0 +1,113 @@
+@charset "utf-8";
+
+ul#fotos{
+	width: 770px;
+	margin: 0 auto;
+	padding: 50px;
+	overflow: hidden;
+	list-style: none;
+}
+ul#fotos li{
+	float: left;
+	width: 200px;
+	height: 200px;
+	margin: 10px;
+	border: 5px solid #f5f5f5;
+	background-color: #ffffff;
+	box-shadow: 1px 1px 3px rgba (0,0,0,.4);
+	-webkit-transition: all .4s ease-in ;
+
+}
+ul#fotos li:hover{
+	-webkit-transform: scale(1.5);
+}
+ul#fotos li#pronome{
+	background: url('../img/img_pronome.jpg') no-repeat;
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+ul#fotos li#pronome:hover{
+	background-position: 0px 0px;
+	background-size: 200px 200px;
+}
+ul#fotos li#substantivo{
+	background: url('../img/img_substantivo.jpg') no-repeat; 
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+ul#fotos li#substantivo:hover{
+	background-position: 0px 0px;
+	background-size: 200px 200px;
+}
+ul#fotos li#verbo{
+	background: url('../img/img_verbo.jpg') no-repeat; 
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+ul#fotos li#verbo:hover{
+	background-position: 0px 0px;
+	background-size: 200px 200px;
+}
+ul#fotos li#alfabetoli{
+	background: url('../img/alfabetolibras.jpg') no-repeat; 
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+ul#fotos li#alfabetoli:hover{
+	background-position: 0px 0px;
+	background-size: 200px 200px;
+}
+ul#fotos li#numeroli{
+	background: url('../img/alfabetonum.jpg') no-repeat; 
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+ul#fotos li#numeroli:hover{
+	background-position: 0px 0px;
+	background-size: 200px 200px;
+}
+ul#fotos li#sabia01{
+	background: url('../img/vocesabia1.jpg') no-repeat;
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff; 
+}
+ul#fotos li#sabia01:hover{
+	background-position: 0px 0px;
+	background-size: 200px 200px;
+}
+ul#fotos li#sabia02{
+	background: url('../img/vocesabia2.jpg') no-repeat; 
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+ul#fotos li#sabia02:hover{
+	background-position: 0px 0px;
+	background-size: 200px 200px;
+}
+ul#fotos li#sabia03{
+	background: url('../img/vocesabia3.jpg') no-repeat; 
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+ul#fotos li#sabia03:hover{
+	background-position: 0px 0px;
+	background-size: 200px 200px;
+}
+ul#fotos li#sabia04{
+	background: url('../img/vocesabia4.jpg') no-repeat; 
+	background-position: 50% 50%;
+	background-size: 400px 400px;
+	background-color: #ffffff;
+}
+ul#fotos li#sabia04:hover{
+	background-position: 0px 0px;
+	background-size: 200px 200px;
+}
