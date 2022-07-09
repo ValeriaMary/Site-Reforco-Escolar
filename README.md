@@ -1,2 +1,2 @@
 # Site Reforço Escolar
- Site educatico para crianças
+ Site educativo para crianças
